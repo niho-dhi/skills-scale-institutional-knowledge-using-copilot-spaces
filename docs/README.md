@@ -44,6 +44,8 @@ All OctoAcme projects move through five high-level phases:
 
 ## Process Documents
 
+All documents listed below are available in the `docs/` folder of this repository.
+
 | Document | Description |
 |---|---|
 | [Project Management Overview](octoacme-project-management-overview.md) | High-level introduction to OctoAcme's approach, principles, roles, and communication cadence. |
@@ -61,7 +63,7 @@ All OctoAcme projects move through five high-level phases:
 
 **If you're a Project Manager**, start with the [Project Management Overview](octoacme-project-management-overview.md) to understand OctoAcme's principles, then follow the [Project Initiation Guide](octoacme-project-initiation.md) when kicking off a new project.
 
-**If you're a Product Manager**, read the [Project Management Overview](octoacme-project-management-overview.md) for context on how delivery works, then focus on the [Project Planning](octoacme-project-planning.md) and [Execution & Tracking](octoacme-execution-and-tracking.md) docs to understand how backlog items flow through delivery.
+**If you're a Product Manager (PdM)**, read the [Project Management Overview](octoacme-project-management-overview.md) for context on how delivery works, then focus on the [Project Planning](octoacme-project-planning.md) and [Execution & Tracking](octoacme-execution-and-tracking.md) docs to understand how backlog items flow through delivery.
 
 **If you're a Developer**, jump straight to [Execution & Tracking](octoacme-execution-and-tracking.md) for day-to-day delivery practices, and check the [Release & Deployment Guide](octoacme-release-and-deployment.md) before any release.
 
